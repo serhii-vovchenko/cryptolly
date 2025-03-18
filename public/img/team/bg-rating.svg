@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="51" fill="none">
+  <foreignObject width="114" height="49.895" x="-5" y="6">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(2.5px);clip-path:url(#a);height:100%;width:100%"/>
+  </foreignObject>
+  <g data-figma-bg-blur-radius="5">
+    <path fill="url(#b)" d="M.5 21a9.5 9.5 0 0 1 9.5-9.5h84a9.5 9.5 0 0 1 9.5 9.5v19.895a9.5 9.5 0 0 1-9.5 9.5H10a9.5 9.5 0 0 1-9.5-9.5V21Z"/>
+    <path stroke="url(#c)" d="M.5 21a9.5 9.5 0 0 1 9.5-9.5h84a9.5 9.5 0 0 1 9.5 9.5v19.895a9.5 9.5 0 0 1-9.5 9.5H10a9.5 9.5 0 0 1-9.5-9.5V21Z"/>
+    <path stroke="url(#d)" d="M.5 21a9.5 9.5 0 0 1 9.5-9.5h84a9.5 9.5 0 0 1 9.5 9.5v19.895a9.5 9.5 0 0 1-9.5 9.5H10a9.5 9.5 0 0 1-9.5-9.5V21Z"/>
+    <path stroke="url(#e)" d="M.5 21a9.5 9.5 0 0 1 9.5-9.5h84a9.5 9.5 0 0 1 9.5 9.5v19.895a9.5 9.5 0 0 1-9.5 9.5H10a9.5 9.5 0 0 1-9.5-9.5V21Z"/>
+  </g>
+  <g filter="url(#f)">
+    <ellipse cx="51.667" cy="21.742" fill="url(#g)" fill-opacity=".2" rx="33" ry="8.184"/>
+  </g>
+  <defs>
+    <radialGradient id="b" cx="0" cy="0" r="1" gradientTransform="matrix(104 44.3383 -23.3673 54.81036 8.7 11)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff" stop-opacity=".36"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="c" cx="0" cy="0" r="1" gradientTransform="rotate(15.094 -84.602 -201.437) scale(101.588 32.0684)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity=".06"/>
+    </radialGradient>
+    <radialGradient id="d" cx="0" cy="0" r="1" gradientTransform="rotate(172.619 66.008 23.186) scale(83.0379 23.6387)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8470FF"/>
+      <stop offset="1" stop-color="#865CFF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="e" cx="0" cy="0" r="1" gradientTransform="rotate(22.566 21.85 134.097) scale(42.6893 21.8117)" gradientUnits="userSpaceOnUse">
+      <stop/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="g" cx="0" cy="0" r="1" gradientTransform="matrix(0 12.1283 -48.9125 0 51.667 13.559)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="a" transform="translate(5 -6)">
+      <path d="M.5 21a9.5 9.5 0 0 1 9.5-9.5h84a9.5 9.5 0 0 1 9.5 9.5v19.895a9.5 9.5 0 0 1-9.5 9.5H10a9.5 9.5 0 0 1-9.5-9.5V21Z"/>
+    </clipPath>
+    <filter id="f" width="91.909" height="42.276" x="5.712" y=".604" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feGaussianBlur result="effect1_foregroundBlur_16003_1077" stdDeviation="6.477"/>
+    </filter>
+  </defs>
+</svg>
