@@ -1,0 +1,8 @@
+@import 'swiper/css';
+@import 'swiper/css/navigation';
+@import 'swiper/css/pagination';
+
+@import url('./reset.css');
+@import url('./base.css');
+@import url('./services.css');
+@import url('./team.css');
